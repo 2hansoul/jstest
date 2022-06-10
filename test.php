@@ -9,7 +9,7 @@ var x = setInterval(function(){
          
         min = parseInt(time/60);  //325을 325/60을 하면 몫은 5가 나오고 나머지는 25가 나오고  몫은 min이 되고 나머지는 sec
         sec = time%60;
-    document.getElementById("test").innerHTML = min +"분"+sec + "초후확인가능";
+    document.getElementById("test").innerHTML = min +"분"+sec + "초후확인aaaaa";
     time--;
 
 if(time < 0){
