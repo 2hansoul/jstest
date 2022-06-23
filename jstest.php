@@ -135,7 +135,7 @@
         <b> <b id="textColor">Select Text Color</b> 
         <input id="color" name="color" onchange="myText(this)" type="color"> : 
         <span id=""> </span> <br>
-         <b id="bgColor"> Select Background Color</b> 
+         <b id="bgColor"> Select Background Color!</b> 
         <input id="color1" name="color1" onchange="myBackground(this)" type="color"> : 
         <span ></span> <br>
         </b>
